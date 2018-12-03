@@ -6,6 +6,6 @@ Este projeto foi continuado em outra disciplina futura, Laboratório de Engenhar
 https://github.com/dsfb/LESW_FatecSP_2sem_2018
 .
 
-O repositório original espelhado está em:
+O repositório original, espelhado, está em:
 https://github.com/dsfb/KnowledgeTree_IHC_ADS_FatecSP
 .
